@@ -168,6 +168,9 @@ Include screenshots in your repository:
 * Confusion matrix
 * Training logs
 
+<img width="544" height="650" alt="image" src="https://github.com/user-attachments/assets/f6d999ff-53e4-487e-a40c-2508842e8950" />
+
+
 ---
 
 ## **11.Enhancements / Improvements**

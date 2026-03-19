@@ -223,3 +223,9 @@ matplotlib
 seaborn
 scikit-learn
 ```
+
+## Author
+KESHAVARTHINI B
+
+## License
+This project is for academic purposes.

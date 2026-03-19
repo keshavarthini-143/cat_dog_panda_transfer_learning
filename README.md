@@ -1,8 +1,8 @@
-## **1. 🏷️ Project Title**
+## **1.Project Title**
 
 **Image Classification using Transfer Learning (Cats, Dogs & Pandas) with ResNet18**
 
-## **2. 📝 Abstract / Introduction**
+## **2.Abstract / Introduction**
 
 This project implements a **deep learning-based image classification system** using **ResNet18 (Transfer Learning)** in PyTorch.
 
@@ -24,7 +24,7 @@ The project includes:
 
 ---
 
-## **3. 📂 Dataset Details**
+## **3.  Dataset Details**
 
 ### **Dataset: Cats vs Dogs vs Pandas (Kaggle)**
 
@@ -49,7 +49,7 @@ data/
 
 ---
 
-## **4. 🛠️ Environment Setup**
+## **4.Environment Setup**
 
 Install dependencies:
 
@@ -60,7 +60,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ---
 
-## **5. ⚙️ GPU Installation Steps OR CPU Installation Steps**
+## **5.GPU Installation Steps OR CPU Installation Steps**
 
 ### **GPU Setup**
 
@@ -84,7 +84,7 @@ pip install torch torchvision torchaudio
 
 ---
 
-## **6. 🖥️ How to Run in VS Code**
+## **6.How to Run in VS Code**
 
 ### **Step 1 — Open Project Folder**
 
@@ -110,7 +110,7 @@ cat_dog_panda_transfer_learning.ipynb
 
 ---
 
-## **7. 🧠 Model Details**
+## **7.Model Details**
 
 ### **Base Model**
 
@@ -134,7 +134,7 @@ LogSoftmax
 
 ---
 
-## **8. 📊 Results & Output**
+## **8.Results & Output**
 
 ### **Results**
 
@@ -148,7 +148,7 @@ LogSoftmax
 
 ---
 
-## **9. 📉 Confusion Matrix**
+## **9.Confusion Matrix**
 
 The confusion matrix is plotted using Seaborn to evaluate predictions.
 
@@ -160,7 +160,7 @@ The confusion matrix is plotted using Seaborn to evaluate predictions.
 
 ---
 
-## **10. 🖼️ Sample Outputs**
+## **10.Sample Outputs**
 
 Include screenshots in your repository:
 
@@ -170,7 +170,7 @@ Include screenshots in your repository:
 
 ---
 
-## **11. 🚀 Enhancements / Improvements**
+## **11.Enhancements / Improvements**
 
 * Train for more epochs (10–15)
 * Use larger dataset
@@ -180,7 +180,7 @@ Include screenshots in your repository:
 
 ---
 
-## **12. 📊 Conclusion**
+## **12.Conclusion**
 
 This project successfully demonstrates **image classification using transfer learning**.
 
@@ -192,7 +192,7 @@ The ResNet18 model provides good training accuracy, but performance can be impro
 
 ---
 
-## **13. 📁 Repository Structure**
+## **13.Repository Structure**
 
 ```
 project/
@@ -209,7 +209,7 @@ project/
 
 ---
 
-## **14. 📦 Requirements**
+## **14.Requirements**
 
 ```
 torch
